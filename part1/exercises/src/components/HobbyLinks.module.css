@@ -1,0 +1,28 @@
+.hobbyHeading {
+  color: rgb(148, 185, 14);
+  font-size: 2vw;
+  text-decoration: underline;
+  text-align: top;
+}
+
+.hobbyText {
+  font-size: 1.3vw;
+  font-family: arial;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.hobbyContainer {
+  text-align: center;
+  color: aqua;
+}
+
+.link {
+  display: block;
+  margin-top: 10px;
+  color: rgb(244, 66, 7);
+  text-underline-position: below;
+}
+img {
+  width: auto;
+  height: 200px;
+}
