@@ -1,0 +1,24 @@
+{
+  "sandwiches": [
+    {
+      "food": "Salad Sandwich",
+      "artist": "Simply Delicious Food",
+      "photoUrl": "https://simply-delicious-food.com/wp-content/uploads/2020/07/Easy-salad-sandwiches-with-herb-mayo-1.jpg",
+      "alt": "sandwich"
+    },
+
+    {
+      "food": "Cuban Sandwich",
+      "artist": "Food & Wine",
+      "photoUrl": "https://www.foodandwine.com/thmb/wUyjJHa-4zt-0TYobxtVyuOjd5w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cubano-Sandwiches-FT-RECIPE0823-74063c226c254526ad1130edbe976a91.jpg",
+      "alt": "panini"
+    },
+
+    {
+      "food": "Finger Sandwich",
+      "artist": "The Mediterranean Dish",
+      "photoUrl": "https://www.themediterraneandish.com/wp-content/uploads/2022/07/cucumber-sandwich-recipe-1.jpg",
+      "alt": "cucumber"
+    }
+  ]
+}
