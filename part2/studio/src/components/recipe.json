@@ -1,18 +1,17 @@
 [
-   {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
-     "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
-     ]
-   }
- ]
- 
+  {
+    "name": "Creamy Beef and Tomato Soup",
+    "author": "Mel",
+    "description": "This creamy beef and tomato noodle soup is a quick and easy recipe loaded with ground beef, noodles and tons of flavor! It is a family favorite!",
+    "website": "https://www.melskitchencafe.com/creamy-beef-and-tomato-noodle-soup/",
+    "recipeImage": "https://www.melskitchencafe.com/wp-content/uploads/2023/01/beefy-tomato-soup6-640x960.jpg",
+    "authorImage": "https://www.melskitchencafe.com/wp-content/uploads/DSC_8968editedsquaresmall.jpg",
+    "ingredients": [
+      "crushed tomatoes",
+      "ground beef",
+      "broth",
+      "garlic",
+      "pasta"
+    ]
+  }
+]
