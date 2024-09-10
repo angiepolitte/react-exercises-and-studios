@@ -15,7 +15,7 @@ function RecipeImage() {
   );
 }
 
-export default RecipeImage;
+export default RecipeImage; 
 
 //import json file for the data
 //apply css for className recipeImage
